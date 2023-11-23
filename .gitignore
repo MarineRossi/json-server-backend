@@ -1,1 +1,31 @@
 .env
+# Wish Wrap 
+Wish Wrap is an application that allows you to create your profile, store your measurements, and make a gift wishlist. The user can choose gifts already present or create new ones. 
+
+## Project Description
+This application meets the CRUD criterion, you can create your profile and gift, read information, update and delete gift.
+
+The technology used for this project is REACT.
+
+The biggest challenge when creating this application was to store the user across the pages, without having to create a login with password. 
+This functionality may be added later.
+
+## Run the project 
+[WishWrap] (https://wishwrap.netlify.app)
+
+## Using project 
+First of all, the user must create their profile by entering their first and last name, and they must then enter their email address. 
+He is then redirected to another page where he can enter his hat, top, bottom, and shoe measurements.
+On the third page, the user can choose objects already present to include them in their final wish list. He can modify the price, the title, update and delete it.
+If the user does not find what they want in this list, they can create their own gift list. 
+The last page is a summary of his profile, measurements and wishlist. 
+
+#credits 
+This application was created in pairs:
+Camila FLOREZ
+Marine ROSSI 
+
+This application would never have been possible without the help of : 
+Marat Pomeranets
+Mert Toprak 
+A huge thank you to them 

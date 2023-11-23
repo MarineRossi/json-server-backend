@@ -1,39 +1,404 @@
 {
-  "projects": [
+  "user": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "email": "rrr@rrr.com",
+      "nameAndSurname": "rrrr",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "email": "papapap@papapa.com",
+      "nameAndSurname": "ttttttt",
+      "id": 2
+    },
+    {
+      "email": "aaaa@lolo.com",
+      "nameAndSurname": "aaa",
+      "id": 3
+    },
+    {
+      "email": "fuck@fuck.com",
+      "nameAndSurname": "fuck",
+      "id": 4
+    },
+    {
+      "email": "t@t.com",
+      "nameAndSurname": "t",
+      "id": 5
+    },
+    {
+      "email": "p@p.com",
+      "nameAndSurname": "p",
+      "id": 6
+    },
+    {
+      "email": "ttt@ttt.com",
+      "nameAndSurname": "tttt",
+      "id": 7
+    },
+    {
+      "email": "asdasd@asdasd.com",
+      "nameAndSurname": "asdasd",
+      "id": 8
+    },
+    {
+      "email": "asdasd@asdasd",
+      "nameAndSurname": "asdasd",
+      "id": 9
     }
   ],
-  "tasks": [
+  "measure": [
     {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "hat": "52",
+      "top": "xs",
+      "bottom": "xxs",
+      "shoes": "7/38",
+      "user_id": "1",
+      "id": 1
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "hat": "52",
+      "top": "xs",
+      "bottom": "xs",
+      "shoes": "7/38",
+      "user_id": "2",
+      "id": 2
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "hat": "52",
+      "top": "xs",
+      "bottom": "xxs",
+      "shoes": "7/38",
+      "user_id": "3",
+      "id": 3
     },
     {
-      "projectId": 2,
-      "title": "New Task",
-      "description": "This is a new task.",
+      "hat": "52",
+      "top": "xs",
+      "bottom": "xs",
+      "shoes": "7/38",
+      "user_id": "4",
       "id": 4
+    },
+    {
+      "hat": "52",
+      "top": "xs",
+      "bottom": "xs",
+      "shoes": "6/37",
+      "user_id": "5",
+      "id": 5
+    },
+    {
+      "hat": "52",
+      "top": "xs",
+      "bottom": "xxs",
+      "shoes": "6/37",
+      "user_id": "6",
+      "id": 6
+    },
+    {
+      "hat": "51",
+      "top": "xxs",
+      "bottom": "xxs",
+      "shoes": "6/37",
+      "user_id": "7",
+      "id": 7
+    },
+    {
+      "hat": "53",
+      "top": "s",
+      "bottom": "M",
+      "shoes": "10/41",
+      "user_id": "8",
+      "id": 8
+    },
+    {
+      "hat": "52",
+      "top": "5XL",
+      "bottom": "M",
+      "shoes": "11/42",
+      "user_id": "9",
+      "id": 9
+    }
+  ],
+  "gift": [
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "1",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nameOfTheGift": "b",
+      "price": "b",
+      "urlOfGift": "b"
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "1",
+      "id": 6
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "1",
+      "id": 7
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "1",
+      "id": 8
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "1",
+      "id": 9
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "1",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "nameOfTheGift": "a",
+      "price": "b",
+      "urlOfGift": "a"
+    },
+    {
+      "id": 13,
+      "nameOfTheGift": "t",
+      "price": "t",
+      "urlOfGift": "t"
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "6",
+      "id": 14
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "6",
+      "id": 15
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "6",
+      "id": 16
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "6",
+      "id": 17
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "6",
+      "id": 18
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "6",
+      "id": 19
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "6",
+      "id": 20
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "6",
+      "id": 21
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "6",
+      "id": 22
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "6",
+      "id": 23
+    },
+    {
+      "id": 25,
+      "nameOfTheGift": "t",
+      "price": "t",
+      "urlOfGift": "t"
+    },
+    {
+      "nameOfTheGift": "b",
+      "price": "b",
+      "urlOfGift": "b",
+      "user_id": "7",
+      "id": 26
+    },
+    {
+      "id": 27,
+      "nameOfTheGift": "z",
+      "price": "z",
+      "urlOfGift": "z"
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "8",
+      "id": 28
+    },
+    {
+      "nameOfTheGift": "b",
+      "price": "b",
+      "urlOfGift": "b",
+      "user_id": "8",
+      "id": 29
+    },
+    {
+      "nameOfTheGift": "c",
+      "price": "c",
+      "urlOfGift": "c",
+      "user_id": "8",
+      "id": 30
+    },
+    {
+      "id": 31,
+      "nameOfTheGift": "v",
+      "price": "v",
+      "urlOfGift": "v"
+    },
+    {
+      "nameOfTheGift": "b",
+      "price": "b",
+      "urlOfGift": "b",
+      "user_id": "9",
+      "id": 32
+    },
+    {
+      "id": 33,
+      "nameOfTheGift": "tt",
+      "price": "tt",
+      "urlOfGift": "tt"
+    },
+    {
+      "nameOfTheGift": "b",
+      "price": "b",
+      "urlOfGift": "b",
+      "user_id": "10",
+      "id": 34
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "2",
+      "id": 35
+    },
+    {
+      "nameOfTheGift": "z",
+      "price": "z",
+      "urlOfGift": "z",
+      "user_id": "3",
+      "id": 36
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "z",
+      "urlOfGift": "a",
+      "user_id": "3",
+      "id": 37
+    },
+    {
+      "nameOfTheGift": "fuck",
+      "price": "fuckfuck",
+      "urlOfGift": "fuckfuckfuck",
+      "user_id": "4",
+      "id": 38
+    },
+    {
+      "nameOfTheGift": "b",
+      "price": "b",
+      "urlOfGift": "b",
+      "user_id": "4",
+      "id": 39
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "5",
+      "id": 40
+    },
+    {
+      "nameOfTheGift": "v",
+      "price": "v",
+      "urlOfGift": "v",
+      "user_id": "6",
+      "id": 41
+    },
+    {
+      "nameOfTheGift": "a",
+      "price": "a",
+      "urlOfGift": "a",
+      "user_id": "7",
+      "id": 42
+    },
+    {
+      "nameOfTheGift": "sdfgsdfg",
+      "price": "sdfgsdf",
+      "urlOfGift": "sdfg",
+      "user_id": "8",
+      "id": 43
+    }
+  ],
+  "items": [
+    {
+      "title": "totototo",
+      "price": "2000",
+      "images": [],
+      "id": 1
+    },
+    {
+      "title": "tatatata",
+      "price": "000",
+      "images": [],
+      "id": 2
+    },
+    {
+      "title": "new",
+      "price": "066",
+      "images": [],
+      "id": 3
     }
   ]
 }
